@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\the projects\\graphics\\the swing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29549881-9E2E-43E0-B0CC-411C36872D65}|the swing\\the swing.vcxproj|E:\\the projects\\graphics\\the swing\\the swing\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29549881-9E2E-43E0-B0CC-411C36872D65}|the swing\\the swing.vcxproj|solutionrelative:the swing\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\the projects\\graphics\\the swing\\the swing\\main.cpp",
+              "RelativeDocumentMoniker": "the swing\\main.cpp",
+              "ToolTip": "E:\\the projects\\graphics\\the swing\\the swing\\main.cpp",
+              "RelativeToolTip": "the swing\\main.cpp",
+              "ViewState": "AQIAAEUAAAAAMzMzMzMLwFYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T15:58:24.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
